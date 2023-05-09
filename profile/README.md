@@ -2,7 +2,6 @@
 
 Propietario: [@bidkar](https://github.com/bidkar)
 
----
 ## Tercer parcial
 
 ### Actividades por rol
